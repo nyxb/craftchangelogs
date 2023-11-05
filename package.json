@@ -1,7 +1,7 @@
 {
   "name": "craftchangelogs",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "packageManager": "pnpm@8.7.6",
   "description": "Generate Beautiful Changelogs using Conventional Commits",
   "license": "MIT",
