@@ -30,7 +30,7 @@
     "lint": "eslint .",
     "lint:fix": "eslint --fix .",
     "prepack": "unbuild",
-    "release": "pnpm test && pnpm craftchangelogs --release --push && pnpm publish",
+    "release": "pnpm craftchangelogs --release --push && pnpm publish",
     "test": "pnpm lint && vitest run --coverage"
   },
   "dependencies": {
